@@ -1,4 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BpXStGJy)
-[REPLACE ME!] 
+# Jake Sieczkowski
+![](IMG_5598.jpeg)
 
-Add your profile details here
+**eid: jake.sieczkowski | Username: jakesieczkowski**
+
+*Class of 2028 - Business Administration*
+
+Hobbies:
+
+- Playing ice hockey
+- Reading books
+- Watching tv shows
+
+Favorite song: [Disarm](https://www.youtube.com/watch?v=d1acEVmnVhI)
+
